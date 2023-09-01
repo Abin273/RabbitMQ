@@ -8,5 +8,5 @@ Downlaod and install RabbitMQ
 to execute
 -----------
 
-node publisher.js
+node publisher.js <br>
 node subscriber.js
