@@ -1,3 +1,5 @@
+RabbitMQ is a message broker that follows the Advanced Message Queuing Protocol (AMQP) standard. It is typically used in distributed systems and microservices architectures. 
+
 downloads
 ---------
 
